@@ -1,6 +1,6 @@
 # NFL Receiver Stats Dashboard
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)  [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)  [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC.svg)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)  [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)  [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC.svg)](https://tailwindcss.com/)
 
 Modern web application displaying NFL wide receiver statistics for the 2023-24 season with advanced filtering, sorting, and comparison features.
 
@@ -11,6 +11,12 @@ Modern web application displaying NFL wide receiver statistics for the 2023-24 s
 - Player comparison tool
 - Performance metrics and trends
 - Responsive design
+
+![Stats](public/images/stats1.png)
+
+![Stats Detail](public/images/stats-details.png)
+
+![Stats Compare](public/images/stats-compare.png)
 
 ## Stack
 
